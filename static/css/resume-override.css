@@ -1,0 +1,28 @@
+  .resume-section{
+ 	
+	font-family: Georgia;
+ }
+
+
+
+ .list-social-icons a:hover {
+	color: #648276;
+ }
+ .list-icons .list-inline-item i:hover {
+	color: #648276;
+ }
+ .bg-primary {
+	background-color: #404040 !important;
+	}
+ 
+ .text-primary {
+	color: #648276 !important;
+ }
+ 
+ a {
+	color: #648276;
+ }
+ 
+ a:hover, a:focus, a:active {
+	color: #648276;
+ }

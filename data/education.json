@@ -1,0 +1,19 @@
+[
+    {
+        "school":"[#Avenir](https://www.educationetformation.fr/avenir)",
+        "notes":"Travailler un nouveau projet professionnel",
+        "range":"Mars 2025 - Juillet 2025"
+    },
+    {
+        "school":"[Institut Lemonnier – Caen](https://institut-lemonnier.fr/formation/bts-systemes-numeriques-option-informatique-et-reseaux/)",
+        "degree":"BTS SNIR",
+        "major":"Systèmes Numériques : Informatique et Réseaux",
+        "range":"2016 - 2018"
+    },
+    {
+        "school":"Lycée Sévigné – Granville",
+        "degree":"Bac général S",
+        "major":"Spécialité Informatique et Sciences Numériques",
+        "range":"2016"
+    }
+]
