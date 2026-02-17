@@ -1,0 +1,3 @@
+{ "title": "Site Web CV", "date": "", "link": "https://github.com/KevinDasse/web-resume", "description": "Site Web personnel présentant les différentes infos de mon CV et les différents projets auxquels j'ai participé.", "tags": ["Markdown", "HUGO", "Git"], "fact": "", "featured":true }
+
+Site Web personnel présentant les différentes infos de mon CV et les différents projets auxquels j'ai participé.

@@ -17,7 +17,7 @@ phone = "06 19 64 00 09"
 profileImage = ""
 showContact = true
 showSocializations = true
-sections = ["skills","creations","experience","education"]
+sections = ["creations","experience","education"]
 vcardfields = [
     "name",
     "image",

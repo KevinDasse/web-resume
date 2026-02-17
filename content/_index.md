@@ -10,4 +10,4 @@ outputs:
 - json
 ---
 
-Description.
+Ce site a été généré en utilisant [HUGO](https://gohugo.io) avec [un thème open-source](https://github.com/eddiewebb/hugo-resume).
